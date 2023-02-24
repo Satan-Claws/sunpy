@@ -1,7 +1,7 @@
 """
-====================================
+==========================================
 Blending Plots using mplcairo
-====================================
+==========================================
 
 This example will go through how you can blend two plots from SunPY
 using mplcairo
